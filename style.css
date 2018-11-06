@@ -1,0 +1,19 @@
+h1 {
+	color: white;
+	font-family: karma;
+	text-align: center;
+	padding-bottom: 70px;
+	padding-top: 70px;
+	font-size: 60px;
+	letter-spacing: 3px;
+}
+body {
+	background: black;
+}
+#banner {
+	background-image: url(https://media.wired.com/photos/5b7f64cbbe2f8d3a624b77b2/master/pass/SPoW_82318_01.jpg);
+}
+.card {
+	width: 100px;
+	height: 100px;
+}
